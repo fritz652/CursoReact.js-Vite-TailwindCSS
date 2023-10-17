@@ -1,8 +1,10 @@
+import Layout from "../../Components/Layout"
+
 const Home = () => {
   return (
-    <div className="bg-red-100">
+    <Layout>
         Home
-    </div>
+    </Layout>
   )
 }
 
