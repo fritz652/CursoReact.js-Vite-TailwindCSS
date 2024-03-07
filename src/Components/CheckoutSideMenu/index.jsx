@@ -1,5 +1,6 @@
 import { useContext } from "react";
 import { XMarkIcon } from "@heroicons/react/24/solid";
+import { Link } from "react-router-dom";
 import { ShoppingCartContext } from "../../Context";
 import OrderCard from "../OrderCard"; //../../Components/OrderCard
 import { totalPrice } from "../../utils";
@@ -59,12 +60,14 @@ const CheckoutSideMenu = () => {
             ${totalPrice(context.cartProducts)}
           </span>
         </p>
-        <button
-          className="bg-black py-3 text-white  w-full rounded-lg"
-          onClick={() => handleCheckout()}
-        >
-          Checkout
-        </button>
+        <Link to="/my-orders/last">
+          <button
+            className="bg-black py-3 text-white  w-full rounded-lg"
+            onClick={() => handleCheckout()}
+          >
+            Checkout
+          </button>
+        </Link>
       </div>
     </aside>
   );
