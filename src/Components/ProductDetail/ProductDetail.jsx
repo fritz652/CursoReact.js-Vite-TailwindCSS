@@ -1,7 +1,7 @@
-import { XMarkIcon } from "@heroicons/react/24/solid";
-import "./styles.css";
-import { ShoppingCartContext } from "../../Context";
 import { useContext } from "react";
+import { XMarkIcon } from "@heroicons/react/24/solid";
+import { ShoppingCartContext } from "../../Context";
+import "./styles.css";
 const ProductDetail = () => {
   const context = useContext(ShoppingCartContext);
   return (
