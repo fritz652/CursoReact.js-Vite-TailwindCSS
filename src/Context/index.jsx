@@ -29,9 +29,11 @@ const ShoppingCartProvider = ({ children }) => {
   // Get produts
   const [items, setItems] = useState(null);
 
+  // Get produts by filtered
+  const [filteredItems, setFilteredItems] = useState(null);
+
   // Get produts by title
   const [searchByTitle, setSearchByTitle] = useState(null);
-  console.log(searchByTitle);
 
   useEffect(() => {
     setItems(dataJson); // cuando se usa json dentro del archivo no se usa fetch
@@ -40,6 +42,17 @@ const ShoppingCartProvider = ({ children }) => {
       .then((response) => response.json())
       .then((data) => setItems(data)); */
   }, []);
+
+  const filteredItemsByTitle = (items, searchByTitle) => {
+    return items?.filter((item) =>
+      item.title.toLowerCase().includes(searchByTitle.toLowerCase())
+    );
+  };
+
+  useEffect(() => {
+    if (searchByTitle)
+      setFilteredItems(filteredItemsByTitle(items, searchByTitle));
+  }, [items, searchByTitle]);
 
   return (
     <ShoppingCartContext.Provider
@@ -62,6 +75,7 @@ const ShoppingCartProvider = ({ children }) => {
         setItems,
         searchByTitle,
         setSearchByTitle,
+        filteredItems,
       }}
     >
       {children}
