@@ -9,7 +9,7 @@
     "updatedAt": "2024-03-05T21:20:33.000Z",
     "category": {
       "id": 5,
-      "name": "Miscellaneous",
+      "name": "Clothes",
       "image": "https://i.imgur.com/BG8J0Fj.jpg",
       "createdAt": "2024-03-05T19:22:32.000Z",
       "updatedAt": "2024-03-05T19:22:32.000Z"
@@ -25,7 +25,7 @@
     "updatedAt": "2024-03-05T21:20:57.000Z",
     "category": {
       "id": 3,
-      "name": "A new name",
+      "name": "Electronics",
       "image": "https://i.imgur.com/Qphac99.jpeg",
       "createdAt": "2024-03-05T19:22:32.000Z",
       "updatedAt": "2024-03-05T19:42:51.000Z"
@@ -41,7 +41,7 @@
     "updatedAt": "2024-03-05T20:47:20.000Z",
     "category": {
       "id": 3,
-      "name": "A new name",
+      "name": "Electronics",
       "image": "https://i.imgur.com/Qphac99.jpeg",
       "createdAt": "2024-03-05T19:22:32.000Z",
       "updatedAt": "2024-03-05T19:42:51.000Z"
@@ -57,7 +57,7 @@
     "updatedAt": "2024-03-05T20:47:20.000Z",
     "category": {
       "id": 7,
-      "name": "Fantastic Cotton Ball",
+      "name": "Fornitures",
       "image": "https://plus.unsplash.com/premium_photo-1666900440561-94dcb6865554?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmFuZG9tfGVufDB8fDB8fHww",
       "createdAt": "2024-03-05T19:28:35.000Z",
       "updatedAt": "2024-03-05T19:28:35.000Z"
@@ -73,7 +73,7 @@
     "updatedAt": "2024-03-05T20:47:20.000Z",
     "category": {
       "id": 7,
-      "name": "Fantastic Cotton Ball",
+      "name": "Fornitures",
       "image": "https://plus.unsplash.com/premium_photo-1666900440561-94dcb6865554?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmFuZG9tfGVufDB8fDB8fHww",
       "createdAt": "2024-03-05T19:28:35.000Z",
       "updatedAt": "2024-03-05T19:28:35.000Z"
@@ -89,7 +89,7 @@
     "updatedAt": "2024-03-05T21:20:33.000Z",
     "category": {
       "id": 5,
-      "name": "Miscellaneous",
+      "name": "Clothes",
       "image": "https://i.imgur.com/BG8J0Fj.jpg",
       "createdAt": "2024-03-05T19:22:32.000Z",
       "updatedAt": "2024-03-05T19:22:32.000Z"
@@ -105,7 +105,7 @@
     "updatedAt": "2024-03-05T21:20:57.000Z",
     "category": {
       "id": 3,
-      "name": "A new name",
+      "name": "Electronics",
       "image": "https://i.imgur.com/Qphac99.jpeg",
       "createdAt": "2024-03-05T19:22:32.000Z",
       "updatedAt": "2024-03-05T19:42:51.000Z"
@@ -121,7 +121,7 @@
     "updatedAt": "2024-03-05T20:47:20.000Z",
     "category": {
       "id": 3,
-      "name": "A new name",
+      "name": "Electronics",
       "image": "https://i.imgur.com/Qphac99.jpeg",
       "createdAt": "2024-03-05T19:22:32.000Z",
       "updatedAt": "2024-03-05T19:42:51.000Z"
@@ -137,7 +137,7 @@
     "updatedAt": "2024-03-05T20:47:20.000Z",
     "category": {
       "id": 7,
-      "name": "Fantastic Cotton Ball",
+      "name": "Fornitures",
       "image": "https://plus.unsplash.com/premium_photo-1666900440561-94dcb6865554?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmFuZG9tfGVufDB8fDB8fHww",
       "createdAt": "2024-03-05T19:28:35.000Z",
       "updatedAt": "2024-03-05T19:28:35.000Z"
@@ -153,7 +153,7 @@
     "updatedAt": "2024-03-05T20:47:20.000Z",
     "category": {
       "id": 7,
-      "name": "Fantastic Cotton Ball",
+      "name": "Fornitures",
       "image": "https://plus.unsplash.com/premium_photo-1666900440561-94dcb6865554?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmFuZG9tfGVufDB8fDB8fHww",
       "createdAt": "2024-03-05T19:28:35.000Z",
       "updatedAt": "2024-03-05T19:28:35.000Z"
@@ -169,7 +169,7 @@
     "updatedAt": "2024-03-05T21:20:33.000Z",
     "category": {
       "id": 5,
-      "name": "Miscellaneous",
+      "name": "Clothes",
       "image": "https://i.imgur.com/BG8J0Fj.jpg",
       "createdAt": "2024-03-05T19:22:32.000Z",
       "updatedAt": "2024-03-05T19:22:32.000Z"
@@ -185,7 +185,7 @@
     "updatedAt": "2024-03-05T21:20:57.000Z",
     "category": {
       "id": 3,
-      "name": "A new name",
+      "name": "Electronics",
       "image": "https://i.imgur.com/Qphac99.jpeg",
       "createdAt": "2024-03-05T19:22:32.000Z",
       "updatedAt": "2024-03-05T19:42:51.000Z"
@@ -201,7 +201,7 @@
     "updatedAt": "2024-03-05T20:47:20.000Z",
     "category": {
       "id": 3,
-      "name": "A new name",
+      "name": "Electronics",
       "image": "https://i.imgur.com/Qphac99.jpeg",
       "createdAt": "2024-03-05T19:22:32.000Z",
       "updatedAt": "2024-03-05T19:42:51.000Z"
@@ -217,7 +217,7 @@
     "updatedAt": "2024-03-05T20:47:20.000Z",
     "category": {
       "id": 7,
-      "name": "Fantastic Cotton Ball",
+      "name": "Fornitures",
       "image": "https://plus.unsplash.com/premium_photo-1666900440561-94dcb6865554?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmFuZG9tfGVufDB8fDB8fHww",
       "createdAt": "2024-03-05T19:28:35.000Z",
       "updatedAt": "2024-03-05T19:28:35.000Z"
@@ -233,7 +233,7 @@
     "updatedAt": "2024-03-05T20:47:20.000Z",
     "category": {
       "id": 7,
-      "name": "Fantastic Cotton Ball",
+      "name": "Fornitures",
       "image": "https://plus.unsplash.com/premium_photo-1666900440561-94dcb6865554?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmFuZG9tfGVufDB8fDB8fHww",
       "createdAt": "2024-03-05T19:28:35.000Z",
       "updatedAt": "2024-03-05T19:28:35.000Z"
@@ -249,7 +249,7 @@
     "updatedAt": "2024-03-05T21:20:33.000Z",
     "category": {
       "id": 5,
-      "name": "Miscellaneous",
+      "name": "Clothes",
       "image": "https://i.imgur.com/BG8J0Fj.jpg",
       "createdAt": "2024-03-05T19:22:32.000Z",
       "updatedAt": "2024-03-05T19:22:32.000Z"
@@ -265,7 +265,7 @@
     "updatedAt": "2024-03-05T21:20:57.000Z",
     "category": {
       "id": 3,
-      "name": "A new name",
+      "name": "Electronics",
       "image": "https://i.imgur.com/Qphac99.jpeg",
       "createdAt": "2024-03-05T19:22:32.000Z",
       "updatedAt": "2024-03-05T19:42:51.000Z"
@@ -281,7 +281,7 @@
     "updatedAt": "2024-03-05T20:47:20.000Z",
     "category": {
       "id": 3,
-      "name": "A new name",
+      "name": "Electronics",
       "image": "https://i.imgur.com/Qphac99.jpeg",
       "createdAt": "2024-03-05T19:22:32.000Z",
       "updatedAt": "2024-03-05T19:42:51.000Z"
@@ -297,7 +297,7 @@
     "updatedAt": "2024-03-05T20:47:20.000Z",
     "category": {
       "id": 7,
-      "name": "Fantastic Cotton Ball",
+      "name": "Fornitures",
       "image": "https://plus.unsplash.com/premium_photo-1666900440561-94dcb6865554?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmFuZG9tfGVufDB8fDB8fHww",
       "createdAt": "2024-03-05T19:28:35.000Z",
       "updatedAt": "2024-03-05T19:28:35.000Z"
@@ -313,7 +313,7 @@
     "updatedAt": "2024-03-05T20:47:20.000Z",
     "category": {
       "id": 7,
-      "name": "Fantastic Cotton Ball",
+      "name": "Fornitures",
       "image": "https://plus.unsplash.com/premium_photo-1666900440561-94dcb6865554?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmFuZG9tfGVufDB8fDB8fHww",
       "createdAt": "2024-03-05T19:28:35.000Z",
       "updatedAt": "2024-03-05T19:28:35.000Z"
@@ -329,7 +329,7 @@
     "updatedAt": "2024-03-05T21:20:33.000Z",
     "category": {
       "id": 5,
-      "name": "Miscellaneous",
+      "name": "Clothes",
       "image": "https://i.imgur.com/BG8J0Fj.jpg",
       "createdAt": "2024-03-05T19:22:32.000Z",
       "updatedAt": "2024-03-05T19:22:32.000Z"
@@ -345,7 +345,7 @@
     "updatedAt": "2024-03-05T21:20:57.000Z",
     "category": {
       "id": 3,
-      "name": "A new name",
+      "name": "Electronics",
       "image": "https://i.imgur.com/Qphac99.jpeg",
       "createdAt": "2024-03-05T19:22:32.000Z",
       "updatedAt": "2024-03-05T19:42:51.000Z"
@@ -361,7 +361,7 @@
     "updatedAt": "2024-03-05T20:47:20.000Z",
     "category": {
       "id": 3,
-      "name": "A new name",
+      "name": "Electronics",
       "image": "https://i.imgur.com/Qphac99.jpeg",
       "createdAt": "2024-03-05T19:22:32.000Z",
       "updatedAt": "2024-03-05T19:42:51.000Z"
@@ -377,7 +377,7 @@
     "updatedAt": "2024-03-05T20:47:20.000Z",
     "category": {
       "id": 7,
-      "name": "Fantastic Cotton Ball",
+      "name": "Fornitures",
       "image": "https://plus.unsplash.com/premium_photo-1666900440561-94dcb6865554?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmFuZG9tfGVufDB8fDB8fHww",
       "createdAt": "2024-03-05T19:28:35.000Z",
       "updatedAt": "2024-03-05T19:28:35.000Z"
@@ -393,7 +393,7 @@
     "updatedAt": "2024-03-05T20:47:20.000Z",
     "category": {
       "id": 7,
-      "name": "Fantastic Cotton Ball",
+      "name": "Fornitures",
       "image": "https://plus.unsplash.com/premium_photo-1666900440561-94dcb6865554?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmFuZG9tfGVufDB8fDB8fHww",
       "createdAt": "2024-03-05T19:28:35.000Z",
       "updatedAt": "2024-03-05T19:28:35.000Z"
@@ -409,7 +409,7 @@
     "updatedAt": "2024-03-05T21:20:33.000Z",
     "category": {
       "id": 5,
-      "name": "Miscellaneous",
+      "name": "Clothes",
       "image": "https://i.imgur.com/BG8J0Fj.jpg",
       "createdAt": "2024-03-05T19:22:32.000Z",
       "updatedAt": "2024-03-05T19:22:32.000Z"
@@ -425,7 +425,7 @@
     "updatedAt": "2024-03-05T21:20:57.000Z",
     "category": {
       "id": 3,
-      "name": "A new name",
+      "name": "Electronics",
       "image": "https://i.imgur.com/Qphac99.jpeg",
       "createdAt": "2024-03-05T19:22:32.000Z",
       "updatedAt": "2024-03-05T19:42:51.000Z"
@@ -441,7 +441,7 @@
     "updatedAt": "2024-03-05T20:47:20.000Z",
     "category": {
       "id": 3,
-      "name": "A new name",
+      "name": "Electronics",
       "image": "https://i.imgur.com/Qphac99.jpeg",
       "createdAt": "2024-03-05T19:22:32.000Z",
       "updatedAt": "2024-03-05T19:42:51.000Z"
@@ -457,7 +457,7 @@
     "updatedAt": "2024-03-05T20:47:20.000Z",
     "category": {
       "id": 7,
-      "name": "Fantastic Cotton Ball",
+      "name": "Fornitures",
       "image": "https://plus.unsplash.com/premium_photo-1666900440561-94dcb6865554?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmFuZG9tfGVufDB8fDB8fHww",
       "createdAt": "2024-03-05T19:28:35.000Z",
       "updatedAt": "2024-03-05T19:28:35.000Z"
@@ -473,7 +473,7 @@
     "updatedAt": "2024-03-05T20:47:20.000Z",
     "category": {
       "id": 7,
-      "name": "Fantastic Cotton Ball",
+      "name": "Fornitures",
       "image": "https://plus.unsplash.com/premium_photo-1666900440561-94dcb6865554?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmFuZG9tfGVufDB8fDB8fHww",
       "createdAt": "2024-03-05T19:28:35.000Z",
       "updatedAt": "2024-03-05T19:28:35.000Z"
@@ -489,7 +489,7 @@
     "updatedAt": "2024-03-05T21:20:33.000Z",
     "category": {
       "id": 5,
-      "name": "Miscellaneous",
+      "name": "Clothes",
       "image": "https://i.imgur.com/BG8J0Fj.jpg",
       "createdAt": "2024-03-05T19:22:32.000Z",
       "updatedAt": "2024-03-05T19:22:32.000Z"
@@ -505,7 +505,39 @@
     "updatedAt": "2024-03-05T21:20:57.000Z",
     "category": {
       "id": 3,
-      "name": "A new name",
+      "name": "Electronics",
+      "image": "https://i.imgur.com/Qphac99.jpeg",
+      "createdAt": "2024-03-05T19:22:32.000Z",
+      "updatedAt": "2024-03-05T19:42:51.000Z"
+    }
+  },
+  {
+    "id": 125,
+    "title": "Brock Lesnar",
+    "price": 110,
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "images": ["https://picsum.photos/568/568/"],
+    "createdAt": "2024-03-05T20:47:20.000Z",
+    "updatedAt": "2024-03-05T21:20:57.000Z",
+    "category": {
+      "id": 3,
+      "name": "Toys",
+      "image": "https://i.imgur.com/Qphac99.jpeg",
+      "createdAt": "2024-03-05T19:22:32.000Z",
+      "updatedAt": "2024-03-05T19:42:51.000Z"
+    }
+  },
+  {
+    "id": 126,
+    "title": "Brock Lesnar",
+    "price": 111,
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "images": ["https://picsum.photos/568/568/"],
+    "createdAt": "2024-03-05T20:47:20.000Z",
+    "updatedAt": "2024-03-05T21:20:57.000Z",
+    "category": {
+      "id": 3,
+      "name": "Others",
       "image": "https://i.imgur.com/Qphac99.jpeg",
       "createdAt": "2024-03-05T19:22:32.000Z",
       "updatedAt": "2024-03-05T19:42:51.000Z"
